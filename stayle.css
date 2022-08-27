@@ -1,0 +1,9 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.logo{
+    position: fixed;
+    height: 100px;
+    margin-left: 1200px;
+}
